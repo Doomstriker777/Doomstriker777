@@ -1,16 +1,17 @@
-## Hi there 👋
+#Adarsh Kiran | Aspiring Full Stack Developer
 
-<!--
-**Doomstriker777/Doomstriker777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Transforming complex logic into seamless digital experiences. Whether I am building cross-platform mobile apps in Flutter or architecting AI-driven chatbots, I approach every engineering challenge with protagonist energy and a dedication to robust, scalable architecture.
 
-Here are some ideas to get you started:
+Main Quests: Mastering full-stack development ecosystems (React, Flutter, C++, Python).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Side Quests: Exploring Ethical Hacking, data warehousing, and advanced logic puzzles.
+
+Downtime: Recharging with a steady supply of caffeine, Taylor Swift's evermore, and my anime watchlist.
+
+Fun Facts:
+
+I am a dedicated supporter of the Rajasthan Royals during the IPL season. And also Atletico Madrid in Football.
+
+I actually enjoy untangling complex probability and permutation puzzles in my free time.
+
+I officially survived a 42-hour Cisco C++ Essentials training arc.
